@@ -77,7 +77,7 @@ FunZone/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/FunZone.git
+git clone https://github.com/shah7205khushi/FUNZONE-GAMES-PROJECT.git
 ```
 
 2. Open the project folder.
